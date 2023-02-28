@@ -1,7 +1,4 @@
 ### Olá, mundo! 👋
-
-
-- 🔭 I’m currently working on Flappy Pombo
 - 🌱 I’m currently learning Javascript
 - 😄 Pronouns: He/Him
 
